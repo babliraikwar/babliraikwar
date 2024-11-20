@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything abouts DBMS,SQL, C/C++,OOPS
 - 📫 How to reach me: babliraikwar.in@gmail.com
-- 😄 My website: https://babliraikwar.online
-- ⚡ Fun fact: I'm comming to teen
-  
+- 😄 My website: https://babliraikwar.online  
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/babliraikwar">
@@ -23,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,sql,html,css,js,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,html,css,js,figma,bootsrap)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=babliraikwar&show_icons=true&theme=dark)
 
