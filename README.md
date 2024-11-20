@@ -21,7 +21,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,html,css,js,figma,bootsrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,figma,bootsrap)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=babliraikwar&show_icons=true&theme=dark)
 
@@ -29,4 +29,4 @@
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [axiftaj](https://github.com/babliraikwar)
