@@ -1,4 +1,8 @@
  <h1 align="center">Hi 👋, I'm Bablee Raikwar</h1>
+<h2> About Me</h2>
+<p>As a computer Science student I am constantly learning and have a passion towards problem solving and web development, finding new solutions to problem through various ways is my hobby. I am well versed in programming language including: C,C++,JavaScript, java
+web development: HTML, CSS, bootsrap, tailwind, node.js, express.js  react.js, MySQL, MongoDB.
+other : git& guthub ,RESTful APIs, terminal etc</p>
 
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning  advanced Backend technology
