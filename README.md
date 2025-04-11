@@ -1,8 +1,10 @@
  <h1 align="center">Hi 👋, I'm Bablee Raikwar</h1>
 
 - 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning  advanced Backend technology
 - 💬 Ask me anything abouts DBMS,SQL, C/C++,OOPS
+- 💬 Ask me anything abouts MERN stack (html5,css3,javaScript,node.js,express.js,mongoDB, react.js)
+- 💬 others Skills : git & github,bootsrap, tailwind, RESTful APIs, terminal, figma
 - 📫 How to reach me: babliraikwar.in@gmail.com
 - 😄 My website: https://babliraikwar.online  
 ### Connect with me:
