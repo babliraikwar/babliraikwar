@@ -10,7 +10,7 @@ other : git& guthub ,RESTful APIs, terminal etc</p>
 - 💬 Ask me anything abouts MERN stack (html5,css3,javaScript,node.js,express.js,mongoDB, react.js)
 - 💬 others Skills : git & github,bootsrap, tailwind, RESTful APIs, terminal, figma
 - 📫 How to reach me: babliraikwar.in@gmail.com
-- 😄 My website: https://babliraikwar.online  
+- 😄 Linkedin : https://www.linkedin.com/in/bableeraikwar  
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/babliraikwar">
