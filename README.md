@@ -1,14 +1,16 @@
  <h1 align="center">Hi 👋, I'm Bablee Raikwar</h1>
 <h2> About Me</h2>
-<p>As a computer Science student I am constantly learning and have a passion towards problem solving and web development, finding new solutions to problem through various ways is my hobby. I am well versed in programming language including: C,C++,JavaScript, java
-web development: HTML, CSS, bootsrap, tailwind, node.js, express.js  react.js, MySQL, MongoDB.
-other : git& guthub ,RESTful APIs, terminal etc</p>
+I'm a dedicated Web Developer with strong fundamentals in programming and modern frontend technologies.
 
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning  advanced Backend technology
-- 💬 Ask me anything abouts DBMS,SQL, C/C++,OOPS
-- 💬 Ask me anything abouts MERN stack (html5,css3,javaScript,node.js,express.js,mongoDB, react.js)
-- 💬 others Skills : git & github,bootsrap, tailwind, RESTful APIs, terminal, figma
+💡 Tech Stack:
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS & Bootstrap, HTML5, CSS3, JavaScript
+- 💻 C++ & Object-Oriented Programming
+- 🗄️ DBMS (Database Management Systems)
+- 🖌️ Photoshop (UI Design)
+- 🔍 SEO Optimization
+- 💬 Others Skills : Git & Github, RESTful APIs, terminal, figma
 - 📫 How to reach me: babliraikwar.in@gmail.com
 - 😄 Linkedin : https://www.linkedin.com/in/bableeraikwar  
 ### Connect with me:
